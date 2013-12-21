@@ -1,0 +1,11 @@
+Standard
+Questions
+FullQuestions
+Custom
+Number
+Food
+Places
+Activities
+Feelings
+People
+Color

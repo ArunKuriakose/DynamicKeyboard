@@ -1,0 +1,12 @@
+Standard.txt letter
+Questions.txt word
+FullQuestions.txt sentence
+Number.txt letter
+Custom.txt letter
+Food.txt word
+Places.txt word
+Activities.txt word
+Feelings.txt word
+People.txt word
+Questions.txt word
+Color.txt word
